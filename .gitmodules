@@ -1,3 +1,6 @@
 [submodule "Assignments/Assignment 1/Submissions/hardingadonis"]
 	path = Assignments/Assignment 1/Submissions/hardingadonis
 	url = https://github.com/MMA301/assignment-1.git
+[submodule "Assignments/Assignment 2/Submissions/hardingadonis"]
+	path = Assignments/Assignment 2/Submissions/hardingadonis
+	url = https://github.com/MMA301/assignment-2.git
