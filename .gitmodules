@@ -4,9 +4,6 @@
 [submodule "Assignments/Assignment 2/Submissions/hardingadonis"]
 	path = Assignments/Assignment 2/Submissions/hardingadonis
 	url = https://github.com/MMA301/assignment-2.git
-[submodule "Assignments/Assignment 1/Submissions/bakaqc"]
-	path = Assignments/Assignment 1/Submissions/bakaqc
-	url = https://github.com/MMA301-17C/Assignment-1
 [submodule "Assignments/Assignment 3/Submissions/hardingadonis"]
 	path = Assignments/Assignment 3/Submissions/hardingadonis
 	url = https://github.com/MMA301/assignment-3.git
