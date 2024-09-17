@@ -13,9 +13,6 @@
 [submodule "Assignments/Assignment 2/Submissions/bakaqc"]
 	path = Assignments/Assignment 2/Submissions/bakaqc
 	url = https://github.com/MMA301-17C/assignment-2
-[submodule "Assignments\\Assignment 1\\Submissions\\thunder"]
-	path = Assignments\\Assignment 1\\Submissions\\thunder
-	url = https://github.com/4-nam-dai-hoc/MMA-assignment1.git
 [submodule "Assignments/Assignment 1/Submissions/thunder"]
 	path = Assignments/Assignment 1/Submissions/thunder
 	url = https://github.com/4-nam-dai-hoc/MMA-assignment1.git
