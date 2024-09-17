@@ -16,3 +16,6 @@
 [submodule "Assignments\\Assignment 1\\Submissions\\thunder"]
 	path = Assignments\\Assignment 1\\Submissions\\thunder
 	url = https://github.com/4-nam-dai-hoc/MMA-assignment1.git
+[submodule "Assignments/Assignment 1/Submissions/thunder"]
+	path = Assignments/Assignment 1/Submissions/thunder
+	url = https://github.com/4-nam-dai-hoc/MMA-assignment1.git
