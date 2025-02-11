@@ -5,6 +5,12 @@
 
 > All source code about MMA301 that we learned at FPT University QN AI Campus.
 
+## 📢 Advertisement
+
+<img src="https://raw.githubusercontent.com/fptqnk17/.github/refs/heads/main/images/banner-bao-thu.png" alt="Advertisement" />
+
+---
+
 ## Table of contents
 
 - Assignments:
